@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShotTracker.Test", "ShotTracker.Test\ShotTracker.Test.csproj", "{020ECD1A-A996-43FA-A2B7-2DA76D18E99A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShotTracker", "ShotTracker\ShotTracker.csproj", "{748CA188-83E2-459A-8FC3-DC448C36F49E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{020ECD1A-A996-43FA-A2B7-2DA76D18E99A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{020ECD1A-A996-43FA-A2B7-2DA76D18E99A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{020ECD1A-A996-43FA-A2B7-2DA76D18E99A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{020ECD1A-A996-43FA-A2B7-2DA76D18E99A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{748CA188-83E2-459A-8FC3-DC448C36F49E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{748CA188-83E2-459A-8FC3-DC448C36F49E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{748CA188-83E2-459A-8FC3-DC448C36F49E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{748CA188-83E2-459A-8FC3-DC448C36F49E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

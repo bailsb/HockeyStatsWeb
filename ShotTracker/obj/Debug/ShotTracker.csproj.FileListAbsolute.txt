@@ -1,0 +1,5 @@
+C:\Project\HockeyStatsWeb\ShotTracker\bin\Debug\ShotTracker.exe
+C:\Project\HockeyStatsWeb\ShotTracker\bin\Debug\ShotTracker.pdb
+C:\Project\HockeyStatsWeb\ShotTracker\obj\Debug\ShotTracker.csprojAssemblyReference.cache
+C:\Project\HockeyStatsWeb\ShotTracker\obj\Debug\ShotTracker.exe
+C:\Project\HockeyStatsWeb\ShotTracker\obj\Debug\ShotTracker.pdb

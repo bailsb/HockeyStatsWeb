@@ -1,0 +1,10 @@
+C:\Project\HockeyStatsWeb\ShotTracker.Test\bin\Debug\ShotTracker.Test.dll
+C:\Project\HockeyStatsWeb\ShotTracker.Test\bin\Debug\ShotTracker.Test.pdb
+C:\Project\HockeyStatsWeb\ShotTracker.Test\bin\Debug\nunit.framework.dll
+C:\Project\HockeyStatsWeb\ShotTracker.Test\bin\Debug\ShotTracker.exe
+C:\Project\HockeyStatsWeb\ShotTracker.Test\bin\Debug\ShotTracker.pdb
+C:\Project\HockeyStatsWeb\ShotTracker.Test\bin\Debug\nunit.framework.xml
+C:\Project\HockeyStatsWeb\ShotTracker.Test\obj\Debug\ShotTracker.Test.csprojAssemblyReference.cache
+C:\Project\HockeyStatsWeb\ShotTracker.Test\obj\Debug\ShotTracker.Test.csproj.CopyComplete
+C:\Project\HockeyStatsWeb\ShotTracker.Test\obj\Debug\ShotTracker.Test.dll
+C:\Project\HockeyStatsWeb\ShotTracker.Test\obj\Debug\ShotTracker.Test.pdb
